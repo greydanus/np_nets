@@ -1,0 +1,19 @@
+##### FILE TYPES #####
+
+*.tar
+*.pt
+.DS_Store
+*.pyc
+*.mp4
+*.p
+
+##### DIRECTORIES #####
+
+./figures/*
+./movies/*
+.ipynb_checkpoints/*
+
+
+##### NAMES #####
+
+*ubyte
